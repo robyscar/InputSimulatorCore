@@ -1,4 +1,5 @@
 Input Simulator Core
+https://github.com/cwevers/InputSimulatorCore
 ====================
 Based on Windows Input Simulator created my Michael Noonan.
 Originally a .net framework project, the source code has been updated to be used as a .net core project by Christiaan Wevers
